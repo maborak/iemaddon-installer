@@ -1,0 +1,161 @@
+
+.tooltip{
+   			display: inline;
+    		position: relative;
+		}
+		
+		.tooltip:hover:after{
+    		background: #e0ecff;
+    		border-radius: 2px;
+    		opacity: 0.9;
+    		font-size: 8pt;
+    		border:1px solid #005fa3;
+    		bottom: 15px;
+    		color: #000;
+    		content: attr(title);
+    		left: 5%;
+    		padding: 5px 15px;
+    		position: absolute;
+    		z-index: 9822;
+    		width: 220px;
+		}
+		
+		.tooltip:hover:before{
+    		border: solid;
+    		border-color: #005fa3 transparent;
+    		border-width: 6px 6px 0 6px;
+    		bottom: 10px;
+    		content: "";
+    		left: 50%;
+    		position: absolute;
+    		z-index: 9923;
+		}
+
+.tooltip2{
+            display: inline;
+            position: relative;
+        }
+        
+        .tooltip2:hover:after{
+            background: #FFF;
+            border-radius: 2px;
+            opacity: 0.9;
+            font-size: 8pt;
+            border:1px solid orange;
+            bottom: 15px;
+            color: #000;
+            content: attr(title);
+            left: 5%;
+            padding: 5px 15px;
+            position: absolute;
+            z-index: 9822;
+            width: 220px;
+        }
+        
+        .tooltip2:hover:before{
+            border: solid;
+            border-color: orange transparent;
+            border-width: 6px 6px 0 6px;
+            bottom: 10px;
+            content: "";
+            left: 50%;
+            position: absolute;
+            z-index: 9923;
+        }
+
+/**
+ * Migration to DIVs
+ */
+
+#settings-panel {
+    background-color: #fff;
+    border-radius: 10px;
+    display: inline-block;
+    width: 100%;
+    position: relative;
+}
+.settings-section {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #FFF;
+    border-color: #EEE;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px 1px 0;
+    height: 35px;
+}
+.settings-section-top {
+    border-bottom-width: 0;
+    border-top-left-radius: 10px;
+    /*border-top-left-radius: 10px;
+    border-top-right-radius: 10px;*/
+}
+.sections-section-bottom {
+    /*border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;*/
+    border-bottom-left-radius: 10px;
+    border-bottom-width: 1px;
+}
+.sections-top-shadow {
+    border-top: 1px solid #e4e4e4;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 30px;
+    left: 21px;
+    position: absolute;
+    top: 21px;
+}
+.settings-label {
+    float: left;
+    /*font-family: sans-serif;
+    font-size: 14px;
+    font-weight: bold;*/
+    margin-left: 15px;
+    margin-top: 10px;
+    color:#000;
+    width: 50%;
+    text-align: right;
+}
+.settings-melody {
+    color: #385487;
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-top: 7px;
+}
+.settings-setter {
+    float: right;
+    margin-right: 15px;
+    margin-top: 6px;
+    width: 30%;
+}
+
+.settings-setter_center
+{
+    margin: 0 auto;
+    width: 50%;
+}
+
+.data_empty{
+    padding:10px;
+    font-size:8pt;
+    margin-top:10px;
+    margin-bottom:10px;
+    border:1px solid #EEE;
+}
+.h_status_div{
+    text-align: right;
+    font-size: 8pt;
+}
+.h_status_div select{
+    width: 100px;
+}
+.inline-block{
+    display: inline-block;
+}
+.inline-hack{
+    clear: left;
+}
+
