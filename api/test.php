@@ -12,7 +12,7 @@
 //  *                                                                       *
 //  * Addons for Interspire Email Marketer                                  *
 //  * Copyright (c) Maborak Technologies, Inc.                              *
-//  * Release Date: Wed Feb  5 10:00:01 UTC 2025               *
+//  * Release Date: Wed Feb  5 10:22:01 UTC 2025               *
 //  *                                                                       *
 //  *************************************************************************
 //  *                                                                       *
@@ -38,15 +38,14 @@
 //  *************************************************************************
 if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
 ?>
-HR+cPteVXWammdekBT4JAczGsyHCpRuU5S9fC7JU0r9zcHDWXcd0iAgbKARG3SlZ8EFZVi1bxmjh
-u52lKhqNebMZ5/li1/4supSn5mkAZLViw1XHJAYxlYtEiA8bPuIch6hGZ2Vl4dqNrz+In+MWJwZf
-iBa+DLuGcuf5DyqrKixCn1Jl66PKSH0aBecmeSJJups5mnD7RJgJWqAdZTEd93rlxi9J270dHDK2
-SZDau0iwqeAu7ZN9vLJZom2988DtC05avJZ1rmEuoYR/DFKZY6RYm7bELvtSSg6oTxwSYfSoeaCC
-bAOzH5zK/r4OnTuzjcUjeD+n1Iysw7z7KYVbnWk0TKd+gcU6cGm4ZbWj9czzcYeRZgphWVlbsdsv
-9834axjuWwuLovXL5GPo9hCp6msYneSKju+Pu34D44LR+QV0+tDvNVLmFJJ95+HUQ+uBvTKcGPat
-5JOGruUfdoLuSd+m4Pt0fMaZxbpnWMEbR0MS1jof7diCemEpYXgMFNd07240NR70IaiTTCnNbudV
-qoux6aQDnhMQyA3aro7fEz21tDacKICONoo2gfl8XDbxxnt1WXtDKrvVoEQ7ZXIIrw5A+p49r5Rz
-NI6SGrwVttEMm0tkNUCLFTp3wr78JdyxA6yC3qmHyjAvWZ6HPrcGWx8/kXh5JmX9lcNoE2ZgdQv/
-CKegLTsuBpFdPtfsTASTq4nnQzJR5/IXAPbh7oDgFufxWFaPj9KiDJkndEFKtWqKup6V+cCzwjQC
-+s8zeo7kuLncBeT/EnDBG63TcOP6ywm4CLewFOGSk8Uk9kc6YxZEskBDLcMn0/3I7UUYcRjXQDyf
-ZA+STW7q
+HR+cPtA/bvqt8cpIBd42lgCo4ehjOtAVjajKxF770PmwQsezq0rZMrRMa0IOHT9595KTRxrMpUEa
+4CNc3V+zzCegkm5laV7ZNyG6m7jID8kr/ENXjuWvChRTEFIumdhehj3q1xvryGr1OlLNz0wYcnAu
+/QwbAnn+tTnvVsf8wskNTvKECR7qJTvxBT2nzJeGg/xZWehcrW9CQGT2BDjmBinpqZ3exvc29YpR
+4XETmOpvFw67vwZi2utdKzQEaEYJSNQc163NN4fFKwD7pzSdcg097Z8t3rb1qzWQlWPO8FVqf1aF
+ExsG3yJtZtWXR/gb45TIh8Wi30NNPawA74hyBGrPMNk4e6oDKpCjHxq5qBsyV97Tuc4fNfswfgh8
+u9PzkMyI4iLMbyyzPFCwGOVdo6u0Eu3/hJ87qxyrNNAPUuIIRp6ewyJ7f9mFhnhRzyZY0E8DzsDw
+1YHAIJER0EJCOumd6lxLBS+o8EiZAaxMKd/opSu/vVOMkxkQasnuNQ+qZpRaUIUlJm7aM89Nvjq0
+aL1wN0JeQZXRFkuEelgBn4XirJckOkF5lAfN2MudWsldouCQGswBR+gg9HaJGSFwei8/yzAv3LLG
+x4ODrXqS8R7qG8CPJWo+qpG+InU/D+jYt8UZWxmThqM7/iJ8666KKNSznltM3uTVVZHrtkHTcae4
+4olEB2S7Yu87VUzqbSQN0vSlZSKUt8RM4EFpJalxDfPd3ei9m8lAtEvd45YLiRknJ/QQdl5BKJKR
+14AOuIvTWTKYYOWHEa3pcPVBNBruhAh06KAjnxOxW0pQqNLOUzFGHcyH/sFBN4VVgx4olzPmy3G=
